@@ -18,6 +18,12 @@ The **Digital Invoice System** is a modern e-invoicing solution fully compliant 
 - Supports transparency and accountability in financial transactions.  
 - Helps SMEs and large enterprises adopt digital transformation.  
 
+## Tech Stack
+- **Language**: PHP  
+- **Database**: MySQL  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Integration**: FBR e-Invoice API / POS Integration  
+
 ## Purpose
 This project contributes to Pakistan’s digitalization goals by promoting **e-invoicing adoption**, ensuring tax compliance, and supporting FBR’s vision of broadening the tax net. It is suitable for **retailers, SMEs, and enterprises** looking to modernize their invoicing process.  
 
